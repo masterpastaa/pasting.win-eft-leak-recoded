@@ -1,0 +1,10 @@
+﻿  glm.cpp
+c1xx : fatal error C1083: Impossible d'ouvrir le fichier source : 'glm\detail\glm.cpp' : No such file or directory
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Main.cpp
+C:\Users\roka le plus moche\Downloads\Pasting.win-EFT-main (2)\Pasting.win-EFT-main\Main.h(33,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'd3dx9.h' : No such file or directory
